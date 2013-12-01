@@ -32,7 +32,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/rafael/dev/pygeckozabbix/venv"
+set -gx VIRTUAL_ENV "/Users/rafael/dev/virtualenvs/pygeckozabbix"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
