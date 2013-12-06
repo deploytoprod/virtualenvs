@@ -1,0 +1,35 @@
+Metadata-Version: 1.1
+Name: BeautifulHue
+Version: 0.1.2
+Summary: A Python module for the Philips Hue Lighting System API.
+Home-page: https://github.com/allanbunch/beautifulhue
+Author: Allan Bunch
+Author-email: UNKNOWN
+License: MIT
+Description: ============
+        beautifulhue
+        ============
+        
+        A Python library for the Philips Hue Lighting System API.
+        
+        Features
+        ========
+        
+        * Complete Philips Hue API v1.0 coverage.
+        * Consistent method names.
+        * Designed to get things done.
+        * JSON/Pyton dictionary resource representation.
+        * Default response structures are clsely aligned with the official Philips Hue
+          API response structures.
+        * Extensible design.
+        * Thorough documentation.
+        
+        
+        
+Platform: Cross Platform
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 2
+Classifier: Topic :: Software Development
